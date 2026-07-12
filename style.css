@@ -219,7 +219,9 @@
   }
 
   /* Button */
-  #guessButton {
+
+  #guessButton,
+  #againButton {
     font: inherit;
     font-size: var(--font-size-lg);
     font-weight: 600;
@@ -235,7 +237,8 @@
     box-shadow: 0 4px 14px color-mix(in srgb, var(--color-primary) 35%, transparent);
   }
 
-  #guessButton:hover {
+  #guessButton:hover,
+  #againButton:hover {
     background: var(--color-primary-hover);
     box-shadow: 0 6px 20px color-mix(in srgb, var(--color-primary) 45%, transparent);
   }
