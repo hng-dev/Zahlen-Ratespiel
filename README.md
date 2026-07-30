@@ -17,3 +17,7 @@ Dieses Projekt wurde mit Standard-Webtechnologien umgesetzt:
 * **HTML5**
 * **CSS3**
 * **JavaScript**
+
+## Live-Demo
+
+Link zum Spiel: [GitHub Pages](https://hng-dev.github.io/Zahlen-Ratespiel/)
